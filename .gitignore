@@ -1,0 +1,9 @@
+/build/
+/target/
+/WebContent/
+/.settings/
+/.classpath
+
+
+*.class
+/.svn/
